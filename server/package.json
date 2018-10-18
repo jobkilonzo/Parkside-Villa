@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Hotel web",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Parkside-Villa"
+  },
+  "author": "Job Kilonzo",
+  "license": "MIT"
+}
